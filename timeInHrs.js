@@ -1,6 +1,6 @@
 function timeInHours(){
-    let todayDate = new Date().getHours();
-    return todayDate;
+    let time = new Date().getHours();
+    return time;
 
 }
 

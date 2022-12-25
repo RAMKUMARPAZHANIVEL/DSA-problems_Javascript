@@ -1,6 +1,6 @@
 function dayToday(){
-    let todayDate = new Date().getDay();
-    return todayDate;
+    let day = new Date().getDay();
+    return day;
 
 }
 

@@ -1,6 +1,6 @@
 function currentMonth(){
-    let todayDate = new Date().getMonth();
-    return todayDate;
+    let month = new Date().getMonth();
+    return month;
 
 }
 

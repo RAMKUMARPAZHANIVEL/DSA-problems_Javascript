@@ -1,6 +1,6 @@
 function minutesNow(){
-    let value = new Date().getMinutes();
-    return value;
+    let minutes = new Date().getMinutes();
+    return minutes;
 
 }
 
